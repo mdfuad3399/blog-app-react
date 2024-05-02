@@ -1,0 +1,12 @@
+.footer_style{
+    /* position: fixed;
+    bottom: 0;
+    left: 0; */
+    background-color: #F8F9FA;
+    padding: 20px;
+}
+
+
+.loader_style{
+    height: 100vh;
+}
